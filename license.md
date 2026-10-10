@@ -57,7 +57,7 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 
 <p align="center"><a href="https://share.google/9qPiEADa62RS4nJcL"><b>⬇ Download Cpu Monitor — free (2026)</b></a></p>
 
-<p align="center"><sub>基于 MIT 许可证共享 · 更新于 2026-10-09</sub></p>
+<p align="center"><sub>基于 MIT 许可证共享 · 更新于 2026-10-10</sub></p>
 
 
 **Related:** [best-driver-updater-2026](https://github.com/topics/best-driver-updater-2026), [quick-task-scheduler-gui-software](https://github.com/topics/quick-task-scheduler-gui-software), [ping-reducer-open-source](https://github.com/topics/ping-reducer-open-source), [free-game-save-manager](https://github.com/topics/free-game-save-manager), [how-to-system-tweak-tool-guide](https://github.com/topics/how-to-system-tweak-tool-guide), [ultimate-registry-backup-tool-windows-11](https://github.com/topics/ultimate-registry-backup-tool-windows-11), [how-to-cpu-monitor-utility](https://github.com/topics/how-to-cpu-monitor-utility), [best-fix-stutter-windows-guide](https://github.com/topics/best-fix-stutter-windows-guide)
